@@ -1,4 +1,6 @@
 <!--pages/home/home.wxml-->
-<text class="title">NM$L</text>
-<button size="mini">Click Me</button>
-<image>Image</image>
+<view>Hello {{name}}</view>
+<view>Age: {{age}}</view>
+
+<!-- 列表展示 -->
+<view>{{students[0]}}</view>
