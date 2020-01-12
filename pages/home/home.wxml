@@ -1,4 +1,2 @@
-<!--pages/home/home.wxml-->
-<text class="title">NM$L</text>
-<button size="mini">Click Me</button>
-<image>Image</image>
+<view>hello {{name}}!</view>
+<view>Age: {{age + 10}}</view>
